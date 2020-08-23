@@ -14,6 +14,7 @@ public class CommentsInJava {
 		/* system.out.println("salam");
 		 
 		 */
+	// we are practicing our GitHup
 	
 	
 	// this is single line comment in Java
